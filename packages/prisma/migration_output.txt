@@ -1,0 +1,1 @@
+Failed to parse syntax of config file at "/home/sainath/projects/monorepo/my-turborepo/packages/prisma/prisma.config.js"
