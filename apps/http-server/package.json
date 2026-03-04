@@ -8,7 +8,8 @@
   "description": "",
   "devDependencies": {
     "@repo/db": "workspace:*",
-    "@repo/typescript-config": "workspace:*"
+    "@repo/typescript-config": "workspace:*",
+    "@types/node": "^22.15.3"
   },
   "dependencies": {
     "@types/express": "^5.0.6",
